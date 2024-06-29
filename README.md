@@ -1,6 +1,6 @@
 # Almanam Entities.   
 ----------------------------------------------------------------------------------------------------
-Without Dream comment module <\br> without profile modification entity in user Module
+Without Dream comment module & without profile modification entity in user Module
 
 ## Auth
 ---------------------
